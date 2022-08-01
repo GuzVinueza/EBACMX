@@ -6,5 +6,7 @@ c = 30 * 10 * 5
 
 print ('resultado=', c)
 
-d = c * 100
+## Cambiado el factor 102 según requerimiento del negocio
+
+d = c * 102
 print ('resultado total=', d)
