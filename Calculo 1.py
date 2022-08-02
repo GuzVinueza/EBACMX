@@ -1,9 +1,11 @@
 # Prueba de Python
 # Se añadió la variable "c"
+# Se añade la variable e como factor 
 a = 10 
 b = 30 
-c = 30 * 10 * 5
 e = 1.1
+
+c = 30 * 10 * 5 / e 
 print ('resultado=', c)
 
 ## Cambiado el factor 102 según requerimiento del negocio
